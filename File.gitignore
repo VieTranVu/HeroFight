@@ -1,0 +1,18 @@
+# Ignore Unity-specific files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+Build/
+Builds/
+[Pp]latforms/
+.vs/
+.idea/
+.vscode/
+.user/
+.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.bak
